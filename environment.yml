@@ -1,0 +1,8 @@
+name: aiops
+channels:
+  - defaults
+dependencies:
+  - python=3.13
+  - pandas
+  - scikit-learn
+prefix: /home/sujal/miniconda3/envs/aiops
